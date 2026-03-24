@@ -92,7 +92,7 @@ def make_player_roster():
         {"name": "Daryna", "class": "light",    "hp": 60,  "max_hp": 60,  "personalities": ["charming",   "volatile"],   "is_citro": False, "weapon": None, "queued_action": None, "conditions": [], "soda_active": False},
         {"name": "Bohdan", "class": "medium",   "hp": 75,  "max_hp": 75,  "personalities": ["calculated", "stubborn"],   "is_citro": False, "weapon": None, "queued_action": None, "conditions": [], "soda_active": False},
         {"name": "Oksana", "class": "light",    "hp": 60,  "max_hp": 60,  "personalities": ["reckless",   "volatile"],   "is_citro": False, "weapon": None, "queued_action": None, "conditions": [], "soda_active": False},
-        {"name": "Pavlo",  "class": "heavy",    "hp": 100, "max_hp": 100, "personalities": ["reckless",   "charming"],   "is_citro": False, "weapon": None, "queued_action": None, "conditions": [], "soda_active": False},
+        {"name": "Pavlo",  "class": "catalyst",    "hp": 100, "max_hp": 100, "personalities": ["reckless",   "charming"],   "is_citro": False, "weapon": None, "queued_action": None, "conditions": [], "soda_active": False},
     ]
 
 def make_enemy_roster():
